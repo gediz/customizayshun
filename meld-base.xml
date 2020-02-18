@@ -5,7 +5,7 @@
   <!-- Meld -->
 
   <!-- <style name="meld:insert" background="#d0ffa3" foreground="#008800" line-background="#a5ff4c"/> -->
-  <style name="meld:insert" background="#616f39" foreground="#3e432e" line-background="#a5ff4c"/>
+  <style name="meld:insert" background="#616f39" foreground="#a7ff83" line-background="#a5ff4c"/>
 
   <!-- <style name="meld:replace" background="#bdddff" foreground="#0044dd" line-background="#65b2ff"/> -->
   <style name="meld:replace" background="#3282b8" foreground="#ffc045" line-background="#065471"/>
